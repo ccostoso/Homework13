@@ -1,5 +1,5 @@
 {
-  "name": "homework14",
+  "name": "homework13",
   "version": "1.0.0",
   "description": "A simple frined-finder app utilizing Express.js.",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ccostoso/Homework14.git"
+    "url": "git+https://github.com/ccostoso/Homework13.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ccostoso/Homework14/issues"
+    "url": "https://github.com/ccostoso/Homework13/issues"
   },
-  "homepage": "https://github.com/ccostoso/Homework14#readme",
+  "homepage": "https://github.com/ccostoso/Homework13#readme",
   "dependencies": {
     "express": "^4.17.1",
     "path": "^0.12.7"
